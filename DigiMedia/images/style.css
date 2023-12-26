@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+#head1{
+    background-color: rgb(223, 220, 220);
+    height: 60px;
+} 
+.logo{
+    margin-left: 50px;
+    margin-top: 25px;
+    float: left;
+}
+#nav1 li{
+    display: inline-block;
+    padding-right: 35px;
+    padding-top: 30px;
+    background-color: white;
+    height: 90px;
+    
+}
+.li1{
+    margin-left: 599px;
+}
+.but1{
+    padding: 10px 10px 10px 10px;
+    background-color: transparent;
+    border-radius: 25px;
+    color: blue;
+    border-color: blue;
+}
+
+.none{
+    width: 169px;
+    height: 113px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 80px;
+    margin-left: 200px ;
+
+}
+
+.table{
+    width: 1125px;
+    height: 480px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 80px;
+    margin-left: 150px
+}
+
+.but3{
+    padding: 42px 413px 10px 10px;
+    background-color: white;
+    border-radius: 32px;
+    color: blue;
+    border-color: white; 
+    border: none;
+}
+
+.but4{
+    padding: 43px 125px 10px 10px; 
+    margin-left: 100px;
+   background-color: rgb(21, 107, 245);
+   border: none;
+   border-bottom-right-radius: 34px;
+   border-top-right-radius: 34px;
+}
+   
+
+
