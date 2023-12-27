@@ -57,22 +57,86 @@
 }
 
 .but3{
-    padding: 42px 413px 10px 10px;
+    padding: 60px 550px 10px 10px;
     background-color: white;
     border-radius: 32px;
-    color: blue;
+    color: gray;
     border-color: white; 
     border: none;
 }
 
 .but4{
-    padding: 43px 125px 10px 10px; 
+    padding: 60px 180px 10px 10px; 
     margin-left: 100px;
    background-color: rgb(21, 107, 245);
    border: none;
    border-bottom-right-radius: 34px;
    border-top-right-radius: 34px;
 }
+
+.wind1{
+    width: 235px;
+    height: 332px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    top: 3339px;
+    left: 48px;
+}
+
+.wind2{
+    width: 235px;
+    height: 332px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    top: 3339px;
+    left: 322px;
+}
+
+.wind3{
+    width: 235px;
+    height: 332px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    top: 3339px;
+    left: 598px;
+}
+
+.wind4{
+    width: 235px;
+    height: 332px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    top: 3339px;
+    left: 873px;
+}
    
+.wind5{
+    width: 235px;
+    height: 332px;
+    box-shadow: 0.1px 0.1px 7px 0.8px gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    top: 3339px;
+    left: 1150px;
+}
 
 
